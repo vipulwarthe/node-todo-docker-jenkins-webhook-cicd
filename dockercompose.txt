@@ -1,0 +1,5 @@
+#  these are the commands which you need to add in jenkins Executive shell
+# docker-compose down
+# docker-compose up --build -d
+
+  
